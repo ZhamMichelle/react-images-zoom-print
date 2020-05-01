@@ -32,9 +32,11 @@
   "bundleDependencies": false,
   "dependencies": {
     "aphrodite": "^0.5.0",
+    "braces": "^2.3.1",
     "prop-types": "^15.6.0",
     "react-scrolllock": "^2.0.1",
-    "react-transition-group": "^1.1.3"
+    "react-transition-group": "^1.1.3",
+    "yargs-parser": "^18.1.2"
   },
   "deprecated": false,
   "description": "A simple, responsive lightbox component for displaying an array of images with React.js with extended features",
@@ -48,8 +50,8 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
-    "css-loader": "^0.28.7",
-    "eslint": "2.9.0",
+    "css-loader": "^3.5.3",
+    "eslint": "^5.0.0",
     "eslint-config-keystone": "2.2.0",
     "eslint-plugin-react": "5.1.1",
     "extract-text-webpack-plugin": "^3.0.1",
@@ -68,8 +70,8 @@
     "rollup-plugin-uglify": "^2.0.1",
     "style-loader": "^0.19.0",
     "uglify-es": "^3.1.3",
-    "webpack": "^3.7.1",
-    "webpack-dev-server": "^2.9.2"
+    "webpack": "^4.43.0",
+    "webpack-dev-server": "^3.10.3"
   },
   "homepage": "https://github.com/Qian/react-images-zoom-print.git",
   "jsnext:main": "dist/react-images.es.js",
