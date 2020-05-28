@@ -1,6 +1,6 @@
 {
   "_from": "react-images-zoom-print",
-  "_id": "react-images-zoom-print@1.0.8",
+  "_id": "react-images-zoom-print@1.0.9",
   "_inBundle": false,
   "_integrity": "sha512-86ffsLgp6DH70hE48eLCgaaSgqcUNoc4oaeOCM7XCLcxLxj8eXZC05bCW49G7jYIIojOO1o1hB3mAXIwci8caQ==",
   "_location": "/react-images-zoom-print",
@@ -19,7 +19,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-images-zoom-print/-/react-images-zoom-print-1.0.8.tgz",
+  "_resolved": "https://registry.npmjs.org/react-images-zoom-print/-/react-images-zoom-print-1.0.9.tgz",
   "_shasum": "8c4927ed53112d0408383d7134b2543e8b1e3618",
   "_spec": "react-images-zoom-print",
   "_where": "C:\\Users\\User\\Desktop\\myProjectsNodeJS\\ForMore\\my-app",
@@ -112,5 +112,5 @@
     "publish:examples": "NODE_ENV=production nps publish",
     "start": "webpack-dev-server --progress"
   },
-  "version": "1.0.8"
+  "version": "1.0.9"
 }
