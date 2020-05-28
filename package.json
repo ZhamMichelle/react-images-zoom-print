@@ -95,7 +95,7 @@
     "save",
     "print"
   ],
-  "license": "MIT",
+  "license": "",
   "main": "lib/Lightbox.js",
   "name": "react-images-zoom-print",
   "peerDependencies": {

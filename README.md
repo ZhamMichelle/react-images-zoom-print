@@ -37,6 +37,7 @@ export default class Sample extends React.Component {
         rotatable={true}
         zoomable={true}
         onSave={(currentImageIndex, params) => console.log('currentImageIndex, currentImageSrc, params : ', currentImageIndex, this.props.images[currentImageIndex].src, params)}
+        onPrint={() => window.print()}
       />
     );
   }
